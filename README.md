@@ -21,6 +21,7 @@ To explore and analyze the Google Playstore dataset using PySpark and Spark SQL 
 ##  Project files 
 
 | File | Discription |
+|------|-------------|
 | `googleplaystore.csv` | Raw input sales data |
 | `google_playstore_analysis.py` | Project code |
 
